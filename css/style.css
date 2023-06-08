@@ -241,7 +241,7 @@ button {
 .banner_section{
      width: 100%;
      float: left;
-     background-image: url(../images/yoba3.png);
+     background-image: url(../images/yoba3-min.png);
      height: right;
      background-size: 100%;
      padding-bottom: 110px;
@@ -397,7 +397,7 @@ button {
 .about_section{
      width: 100%;
      float: left;
-     background-image: url(../images/about-bg.png);
+     background-image: url(../images/about-bg-min.png);
      height: auto;
      background-size: 100%;
      padding-bottom: 310px;
@@ -550,7 +550,7 @@ button {
 .pricing_section {
     width: 100%;
     float: left;
-    background-image: url(../images/pricing-bg.png);
+    background-image: url(../images/pricing-bg-min.png);
     height: auto;
     background-size: 100%;
     padding-bottom: 320px;
