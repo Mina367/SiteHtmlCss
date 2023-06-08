@@ -397,7 +397,7 @@ button {
 .about_section{
      width: 100%;
      float: left;
-     background-image: url(../images/about1-bg.png);
+     background-image: url(../images/about-bg.webp);
      height: auto;
      background-size: 100%;
      padding-bottom: 310px;
@@ -550,7 +550,7 @@ button {
 .pricing_section {
     width: 100%;
     float: left;
-    background-image: url(../images/pricing1-bg.png);
+    background-image: url(../images/pricing-bg.webp);
     height: auto;
     background-size: 100%;
     padding-bottom: 320px;
